@@ -12,6 +12,7 @@ Niezależny broker i doradca energetyczny z Warszawy, działam w całej Polsce. 
 **Otwarte dane i narzędzia**
 
 - [stopniodni](https://github.com/ProfitEnergy/stopniodni) – stopniodni grzania dla 54 stacji IMGW-PIB, aktualizowane co miesiąc
+  - ten sam zbiór: [Zenodo – DOI 10.5281/zenodo.24418033](https://doi.org/10.5281/zenodo.24418033) · [Hugging Face](https://huggingface.co/datasets/ProfitEnergy/stopniodni-polska) · [Kaggle](https://www.kaggle.com/datasets/profitenergy/heating-degree-days-poland-stopniodni-imgw)
 - [Kalkulator kosztów ogrzewania](https://energetycznybroker.pl/kalkulator-kosztow-ogrzewania.html) – faktury za ciepło z korektą pogodową
 - [Kalkulator grupy taryfowej](https://energetycznybroker.pl/kalkulator-grupy-taryfowej.html) · [Kalkulator mocy biernej](https://energetycznybroker.pl/kalkulator-mocy-biernej.html)
 - [Stopniodni w Polsce](https://energetycznybroker.pl/stopniodni.html) · [Stopniodni Warszawa](https://energetycznybroker.pl/stopniodni-warszawa.html)
